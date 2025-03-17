@@ -4,7 +4,7 @@ metadata:
   name: backstage
   description: backstage.io
   annotations:
-    github.com/project-slug: 'backstage/backstage'
+    github.com/project-slug: 'oaz1cob/oaz1cob'
 spec:
   type: website
   lifecycle: production
